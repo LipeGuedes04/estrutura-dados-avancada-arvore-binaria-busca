@@ -58,3 +58,7 @@ Executar:
 ## Disciplina
 
 Estrutura de Dados Avançada
+
+## Aluno / Matricula
+
+Felipe Guedes Monteiro / 1230107284
