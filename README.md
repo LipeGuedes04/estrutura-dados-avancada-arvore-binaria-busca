@@ -1,5 +1,6 @@
 # Árvore Binária de Busca
 
+Universidade Veiga de Almeida --> Engenharia da Computação.
 Trabalho desenvolvido para a disciplina de Estrutura de Dados Avançada.
 
 ## Sobre o projeto
